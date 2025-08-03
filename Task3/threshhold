@@ -1,0 +1,7 @@
+In binary thresholding, the rule is:
+
+If the pixel value is greater than the threshold, set it to 255
+
+If the pixel value is less than or equal to the threshold, set it to 0
+
+The new pixel value after applying binary thresholding to a grayscale image pixel with a value of 180, using a threshold of 150, will be 255. This is because the pixel value of 180 is greater than the threshold of 150, and the rule for binary thresholding in this scenario dictates that pixels above the threshold are set to 255
